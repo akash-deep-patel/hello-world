@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="Name"><b>Enter College/Company Name</b></label>
+    <label for="Name"><b>Enter College/Company Name:</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
